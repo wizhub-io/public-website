@@ -1,0 +1,67 @@
+{
+  "app": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcomeMsg": "Your business grows with us!",
+    "alternateLogoTxt": "Wizhub Logo"
+  },
+  "about": {
+    "title": "About us",
+    "whyus": {
+      "subtitle": "Why us?",
+      "txt": "We are a small, passionate team focused on delivering optimal-quality services for our clients - which, most of the time, means to be efficient. We know that traditional IT-market relationships may leave you feeling trapped and forced to surrender control. We like being fair and always present all options before any decision is taken. ",
+      "txttwo": "Our team has been working together for over five years, delivering software solutions to individual clients, small companies, and enterprises."
+    },
+    "whatwedo": {
+      "subtitle": "What we do",
+      "txt": "You need an app, a website or a piece of software - that's where we come in. That is, we'll build your app, website or piece of software and if you're having trouble, we'll even set up your software. In the end, you will receive everything you wanted and a little more.",
+      "txttwo": ""
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "form": {
+      "name": "Name",
+      "email": "E-mail",
+      "msg": "Message",
+      "send": "Send",
+      "invalidForm": "The entered information is not valid! Please check the fields!",
+      "callFailed": "There was a issue trying to save the data! Try again later",
+      "successPost": "The data has been successfully sent!",
+      "captchaCheck": "Please perform a successful captcha!",
+      "maxLength50": "Maximum length is 50 characters.",
+      "maxLength500": "Maximum length is 500 characters.",
+      "required": "This field is required!",
+      "emailError": "This field must contain a email address!",
+      "close": "Close"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "blockchain": {
+      "title": "Blockchain Development",
+      "description": "Our team is highly skilled on a variety of blockchain technologies both public and private, having worked on multiple blockchain based projects."
+    },
+    "websiteMobile": {
+      "title": "Website / Mobile App Development",
+      "description": "We know that going mobile is a must for most businesses, bringing value to modern customers. Having people specialized in different technologies, we will deliver a robust cross platform application that will meet your requirements, within a short period of time."
+    },
+    "enterpriseDevelopment": {
+      "title": "Enterprise Software Development",
+      "description": "We will provide a solid foundation for your business. With a very experienced team in the enterprise area, we will deliver well designed, scaling and secure software while meeting the deadlines."
+    },
+    "yourIdea": {
+      "title": "Your Idea",
+      "description": "Didn’t find what you were looking for? We can transform your idea into reality faster than you might expect. We love challenges!",
+      "scheduleMeeting": "Schedule a meeting"
+    },
+    "softwareConsulting": {
+      "title": "Software Consulting",
+      "description": "Do you need help implementing your business requirements or having doubts about your current architecture? Our team will analyze your necessities and will offer the best solution for your business based on your time and budget."
+    }
+  }
+}
